@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Hello
-categories: [hellow, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: hello
+description: hello github
+keywords: hello
 ---
 
 # hello github
+hello github
